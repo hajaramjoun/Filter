@@ -1,0 +1,39 @@
+[
+    {
+        "product": "product1",
+        "marque": "marque1",
+        "prix": 12,
+        "status": "on stock"
+    },
+    {
+        "product": "product2",
+        "marque": "marque2",
+        "prix": 32,
+        "status": "on stock"
+    },
+    {
+        "product": "product3",
+        "marque": "marque3",
+        "prix": 99,
+        "status": "on stock"
+    },
+    {
+        "product": "product4",
+        "marque": "marque4",
+        "prix": 99,
+        "status": "on stock"
+    },
+    {
+        "product": "product5",
+        "marque": "marque5",
+        "prix": 90,
+        "status": "on stock"
+    },
+    {
+        "product": "product6",
+        "marque": "marque6",
+        "prix": 6,
+        "status": "on stock"
+    }
+ 
+]
